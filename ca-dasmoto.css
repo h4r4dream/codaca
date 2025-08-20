@@ -18,7 +18,7 @@ header {
 }
 
 h1 {
-    background-image: url('ressources/pattern.jpeg');
+    background-image: url('pattern.jpeg');
     font-family: Helvetica, sans-serif;
     font-size: 100px;
     color: khaki;
@@ -65,4 +65,5 @@ strong {
     font-weight: bold;
     font-size: 18px;
     color: blue !important;
+
 }
